@@ -32,9 +32,8 @@ public class Calculadora {
 							    	System.out.println("Divisão = " + resultado);
 							    } else {
 							    	System.out.println("Erro: Divisão por zero não é permitida");
-							   }
-						  	   }  else {
-						  				System.out.println("Operador inválido. Por favor, use (+, -, /, *) ");	
+							   }  else {
+						  			System.out.println("Operador inválido. Por favor, use (+, -, /, *) ");	
 						  		}
 		
 			System.out.print("Deseja fazer outro calculo ? [S/N] ");
@@ -48,3 +47,4 @@ public class Calculadora {
 	}
 
 }
+
